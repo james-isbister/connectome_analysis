@@ -42,7 +42,7 @@ matplotlib = "*"
 progressbar ="2.5"
 tqdm="*"
 pyflagser ="*"
-bigrandomgraphs = { git = "https://github.com/james-isbister/bigrandomgraphs.git", branch = "master" }
+bigrandomgraphs = { git = "https://github.com/james-isbister/bigrandomgraphs.git", branch = "main" }
 pyflagsercount = ">=0.2.41"
 networkx="*"
 
